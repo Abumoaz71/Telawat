@@ -1,0 +1,7 @@
+{
+  "appId": "com.telawat.quran",
+  "appName": "تلاوات قرآنية",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
